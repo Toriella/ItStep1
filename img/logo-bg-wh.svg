@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="166.75615mm"
+   height="42.425713mm"
+   viewBox="0 0 166.75615 42.425712"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo-bg-wh.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showguides="false"
+     showborder="false"
+     inkscape:zoom="0.70110129"
+     inkscape:cx="378.68993"
+     inkscape:cy="554.12821"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="329.48163"
+       y="223.93341"
+       width="476.39337"
+       height="151.1907"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="Шар 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.5858073,-1.96087)">
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#ffffff;stroke-width:1.82827;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="57.68372"
+       height="16.926414"
+       x="5.4999428"
+       y="26.546032" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#ffffff;stroke-width:1.83956;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-9"
+       width="57.677181"
+       height="16.919872"
+       x="5.5870929"
+       y="9.8526354" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#ffffff;stroke-width:1.82827;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-6"
+       width="17.112665"
+       height="6.9233389"
+       x="9.454793"
+       y="2.8750055" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#ffffff;stroke-width:1.82827;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-6-6"
+       width="17.112665"
+       height="6.9233389"
+       x="41.177933"
+       y="3.1217937" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-20.001271,-52.166085)"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:0.9;font-family:Serif;-inkscape-font-specification:'Serif Bold';letter-spacing:3px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.7326;stroke-dasharray:none;stroke-opacity:0"><tspan
+         x="329.48242"
+         y="261.71159"
+         id="tspan1">LEGO </tspan><tspan
+         x="329.48242"
+         y="309.71156"
+         id="tspan3">ADVENTURES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Serif;-inkscape-font-specification:Serif;letter-spacing:1.5875px;fill:#ffffff;fill-opacity:1;stroke:#0e00df;stroke-width:0.723;stroke-dasharray:none;stroke-opacity:0"
+       x="66.571098"
+       y="41.424744"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-size:9.87778px;letter-spacing:1.5875px;fill:#ffffff;fill-opacity:1;stroke-width:0.723"
+         x="66.571098"
+         y="41.424744">ROB SMITH BLOG</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.87778px;letter-spacing:1.5875px;fill:#ffffff;fill-opacity:1;stroke-width:0.723"
+         x="66.571098"
+         y="53.771969"
+         id="tspan5" /></text>
+  </g>
+</svg>
